@@ -2,61 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5868ed5d-9607-4618-bf8b-04cd77973200" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/jquery.snippet.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icons/Android.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icons/Apple.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icons/Blogger.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icons/CSS3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icons/Chrome.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icons/Delicious.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icons/Dribbble.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icons/Dropbox.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icons/Facebook.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icons/Flickr.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icons/Forrest.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icons/Github.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icons/Google+.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icons/HTML5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icons/IE.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icons/Instagram.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icons/LastFM.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icons/LinkedIN.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icons/Mail.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icons/NeilOrangePeel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icons/Picasa.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icons/Pinterest.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icons/RSS.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icons/Reddit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icons/Safari.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icons/Skype.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icons/Soundcloud.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icons/Treehouse.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icons/Tumblr.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icons/Twitter.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icons/Vimeo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icons/Windows.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icons/WordPress.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icons/Yahoo!.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icons/YouTube.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icons/jQuery.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/onepager.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/opensource.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/simple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index_old.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/holder.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.snippet.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/stickUp.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/stickUp.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stickup.css" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -73,8 +21,17 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="36" column="64" selection-end-line="86" />
+            <state relative-caret-position="193">
+              <caret line="43" column="103" selection-start-line="43" selection-start-column="103" selection-end-line="43" selection-end-column="103" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="30" selection-start-column="30" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -88,6 +45,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -165,12 +123,12 @@
       <option name="presentableId" value="Default" />
       <updated>1527299696392</updated>
       <workItem from="1527299701515" duration="627000" />
-      <workItem from="1527443451398" duration="425000" />
+      <workItem from="1527443451398" duration="3449000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1052000" />
+    <option name="totallyTimeSpent" value="4076000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="57" y="23" width="1345" height="754" extended-state="0" />
@@ -205,10 +163,17 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="30" selection-start-column="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="36" column="64" selection-end-line="86" />
+        <state relative-caret-position="193">
+          <caret line="43" column="103" selection-start-line="43" selection-start-column="103" selection-end-line="43" selection-end-column="103" />
         </state>
       </provider>
     </entry>
