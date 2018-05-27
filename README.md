@@ -7,5 +7,8 @@ I am working on the site at this moment and will be uploading the final version 
 
 ### Work In Progress
 This page is built using the coming soon theme for Bootstrap created by Start Bootstrap.
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-coming-soon/master/LICENSE)
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
+## Copyright and License
+
+Copyright 2013-2018 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-coming-soon/blob/gh-pages/LICENSE) license.
