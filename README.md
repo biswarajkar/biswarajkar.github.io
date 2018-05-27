@@ -1,6 +1,6 @@
 # Welcome to my portfolio site
 
-This is the home for Biswaraj Kar's professional profile, which I am constantly updating.
+This is the home for Biswaraj Kar's professional profile (https://biswarajkar.github.io/), which I am constantly updating.
 I am working on the site at this moment and will be uploading the final version soon.
 
 ## Status
